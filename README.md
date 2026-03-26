@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Juan Pablo Acosta
-
-<img src="iron man maestro GIF.gif" width="600" />
+<p align="center">
+  <img src="iron man maestro GIF.gif" width="600" />
+</p>
 
 💻 Desarrollador Junior | Estudiante de Sistemas
 🎓 Universidad Nacional de La Plata 
