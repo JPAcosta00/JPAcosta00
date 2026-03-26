@@ -1,5 +1,7 @@
 # 👋 ¡Hola! Soy Juan Pablo Acosta
 
+<img src="URL_DEL_GIF" width="100%" />
+
 💻 Desarrollador Junior | Estudiante de Sistemas
 🎓 Universidad Nacional de La Plata 
 📍 Buenos Aires, Argentina
@@ -17,33 +19,15 @@ Me destaco por ser:
 ✔️ Con rápida adaptación a nuevos entornos
 
 ---
-
 ## 🧠 Stack Tecnológico
 
-### 💻 Backend
-
-* C# (.NET)
-* Entity Framework
-
-### 🌐 Frontend
-
-* HTML
-* CSS
-* JavaScript
-
-### 🗄️ Bases de Datos
-
-* MySQL
-* Diseño E/R
-* Stored Procedures
-* Triggers
-* Transacciones
-
-### ⚙️ Herramientas
-
-* Git & GitHub
-* Metodologías ágiles
-* UML (Casos de uso, Historias de usuario)
+| 💻 Backend | 🌐 Frontend | 🗄️ Bases de Datos | ⚙️ Herramientas |
+|-----------|------------|------------------|----------------|
+| C# (.NET) | HTML       | MySQL            | Git & GitHub   |
+| Entity Framework | CSS | Diseño E/R       | Metodologías ágiles |
+|           | JavaScript | Stored Procedures | UML |
+|           |            | Triggers         | Casos de uso |
+|           |            | Transacciones    | Historias de usuario |
 
 ### 🐍 Otros
 
