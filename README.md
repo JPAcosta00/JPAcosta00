@@ -16,6 +16,7 @@ Actualmente busco mi primera experiencia profesional como desarrollador, donde p
 
 Me destaco por ser:
 ✔️ Responsable
+✔️ Detallista
 ✔️ Organizado
 ✔️ Con rápida adaptación a nuevos entornos
 
@@ -27,7 +28,7 @@ Me destaco por ser:
 | C# (.NET) | HTML       | MySQL            | Git & GitHub   |
 | Entity Framework | CSS | Diseño E/R       | Metodologías ágiles |
 |           | JavaScript | Stored Procedures | UML |
-|           |            | Triggers         | Casos de uso |
+|           |  React     | Triggers         | Casos de uso |
 |           |            | Transacciones    | Historias de usuario |
 
 ### 🐍 Otros
@@ -40,18 +41,13 @@ Me destaco por ser:
 
 * Desarrollo de APIs REST en .NET
 * Mejores prácticas de backend
-* Integración frontend-backend
 * Optimización de bases de datos
 
 ---
 
 ## 🎯 Objetivo Profesional
 
-Busco incorporarme como desarrollador junior o analista programador en un equipo donde pueda:
-
-* Aplicar mis conocimientos
-* Aprender nuevas tecnologías
-* Ganar experiencia en el rubro
+Busco incorporarme como desarrollador Backend junior.
 
 ---
 
